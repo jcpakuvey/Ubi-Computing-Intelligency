@@ -1,0 +1,10 @@
+NOME,IDADE,EX_VIH,TRATMTO,EX_VS,EX_TA,EX_TC
+Ana,10,negativo,rec1,100,5,2
+Rosa,20,negativo,rec2,500,8,1
+Anto,30,positivo,rec1,105,10,3
+Emilio,40,negativo,rec0,200,3,2
+Joao,25,positivo,rec2,,,
+Joana,30,negativo,rec1,,,
+José,40,positivo,rec2,150,9,4
+Joel,30,positivo,rec0,250,7,5
+Pedro,45,negativo,rec3,,,
